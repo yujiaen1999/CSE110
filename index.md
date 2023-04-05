@@ -5,13 +5,14 @@
 **Major in Computer Science**
 > Major in Computer Science
 
-> Programming Language
-'''
+***Programming Language***
+
+```
 Python 
 C/C++ 
 Java 
 Golang
-'''
+```
 
 
 My [Linkdin](https://www.linkedin.com/in/jiaen-yu-b760a2218/?locale=en_US)
