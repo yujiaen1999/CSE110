@@ -3,9 +3,9 @@
 # [JIAEN YU](https://www.linkedin.com/in/jiaen-yu-b760a2218/?locale=en_US)
 
 **Major in Computer Science**
-> Major in Computer Science
+***Major in Computer Science***
 
-***Programming Language***
+> Programming Language
 
 ```
 Python 
