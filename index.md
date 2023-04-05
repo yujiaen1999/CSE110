@@ -32,3 +32,6 @@ Milestone for CSE110:
 - [ ] Lab2
 - [ ] Lab3
 - [ ] Lab4
+
+
+![snowboard](snowboard.JPG)
