@@ -5,11 +5,11 @@
 **Major in Computer Science**
 > Major in Computer Science
 
-Programming Language
+> Programming Language
 '''
-Python
-C/C++
-Java
+Python 
+C/C++ 
+Java 
 Golang
 '''
 
